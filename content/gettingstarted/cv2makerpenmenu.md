@@ -1,5 +1,5 @@
 ---
-title: 'Getting Started'
+title: 'CV2 Menu'
 order: 1
 ---
 
