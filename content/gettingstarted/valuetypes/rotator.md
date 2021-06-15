@@ -4,7 +4,7 @@ order: 13
 tocDepth: 2
 ---
 
-the ``` Bool ``` value type is mainly used for cotrol flow circuity
+the ``` Rotator ``` value type is used to cotrol the Rotator Component
 
 ![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/Images/Bool.gif?raw=true)
 

@@ -4,7 +4,7 @@ order: 3
 tocDepth: 2
 ---
 
-the ``` Bool ``` value type is mainly used for cotrol flow circuity
+the ``` Int ``` value type is a integer number that is always compleae (e.g 1, 2, 3, ...) not 1.3 or 6.777777
 
 ![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/Images/Bool.gif?raw=true)
 

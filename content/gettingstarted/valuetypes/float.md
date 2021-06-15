@@ -4,7 +4,7 @@ order: 2
 tocDepth: 2
 ---
 
-the ``` Bool ``` value type is mainly used for cotrol flow circuity
+the ``` Float ``` value type is a decimal number that can be used for circuity that requires precise number values like ``` Vector3 ``` measurements
 
 ![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/Images/Bool.gif?raw=true)
 

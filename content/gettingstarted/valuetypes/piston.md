@@ -4,7 +4,7 @@ order: 12
 tocDepth: 2
 ---
 
-the ``` Bool ``` value type is mainly used for cotrol flow circuity
+the ``` Piston ``` value type is used to cotrol the Piston Component
 
 ![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/Images/Bool.gif?raw=true)
 
