@@ -1,6 +1,6 @@
 ---
 title: 'CV2 execution types'
-order: 1
+order: 2
 ---
 In cv2 we have 2 execution types:
 

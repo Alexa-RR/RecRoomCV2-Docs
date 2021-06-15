@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started'
-order: 0
+order: 1
 ---
 
 ## CV2 Menu

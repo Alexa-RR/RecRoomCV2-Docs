@@ -1,6 +1,7 @@
 ---
 title: 'exec value type'
-order: 1
+order: 0
+tocDepth: 1
 ---
 
 the ``` exec ``` value type is used to execute circuitry

@@ -1,6 +1,7 @@
 ---
 title: 'ValueTypes'
-order: 0
+order: 3
+tocDepth: 1
 ---
 
 ## In CV2 we have 20 value types!

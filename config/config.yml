@@ -15,11 +15,17 @@ header:
   logo: /assets/logo.png
   links: []
 sidebar:
-  ignoreIndex: true
+  ignoreIndex: false
   forcedNavOrder: []
-  expanded: []
-  groups: []
-  links: []
+  expanded:
+    - /gettingstarted
+  groups:
+    - order: 1
+      path: "/gettingstarted"
+      title: "Getting Started"
+  links:
+    - text: Rec.net
+      link: https://rec.net/user/Alexa
   poweredBy: {}
   enabled: true
 pwa:
@@ -34,7 +40,7 @@ features:
     location: 'https://github.com/Alexa-RR/RecRoomCV2Documentation'
     type: github
   search:
-    enabled: false
+    enabled: true
     indexName: docs
     showStats: true
     pagination:
@@ -57,7 +63,7 @@ features:
     arrowKeyNavigation: true
   toc:
     show: true
-    depth: .nan
+    depth: 3
   mermaid:
     theme: dark
   pageProgress:
