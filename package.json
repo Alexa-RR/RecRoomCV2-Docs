@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "boogi-cli": "0.4.0",
+    "gatsby": "2.24.43",
+    "gatsby-cli": "3.7.1",
     "yarn": "1.22.10"
   }
 }
