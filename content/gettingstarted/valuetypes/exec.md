@@ -1,5 +1,5 @@
 ---
-title: 'exec value type'
+title: 'Exec Value type'
 order: 0
 tocDepth: 1
 ---
