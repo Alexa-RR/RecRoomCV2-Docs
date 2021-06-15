@@ -33,4 +33,5 @@ Then go to "Circuits V2" and it should look like this:
 ![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/gettingstarted/Images/CV2Menu.png?raw=true)
 
 <Tip> I recommend using the search tab as its more conferrable to search chips </Tip>
+
 ![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/gettingstarted/Images/CV2Search.png?raw=true)
