@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Player value type'
 order: 7
 tocDepth: 2
 ---

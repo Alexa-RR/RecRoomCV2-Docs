@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Vector3 value type'
 order: 5
 tocDepth: 2
 ---

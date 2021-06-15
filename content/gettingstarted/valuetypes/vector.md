@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Vector value type'
 order: 18
 tocDepth: 2
 ---

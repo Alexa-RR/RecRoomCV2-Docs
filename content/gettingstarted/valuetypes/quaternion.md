@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Quaternion value type'
 order: 19
 tocDepth: 2
 ---

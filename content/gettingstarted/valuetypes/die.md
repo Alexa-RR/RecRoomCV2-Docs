@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Die value type'
 order: 9
 tocDepth: 2
 ---

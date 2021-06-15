@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Piston value type'
 order: 12
 tocDepth: 2
 ---

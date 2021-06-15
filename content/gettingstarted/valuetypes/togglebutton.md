@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Toggle Button value type'
 order: 16
 tocDepth: 2
 ---

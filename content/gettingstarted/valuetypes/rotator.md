@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Rotator value type'
 order: 13
 tocDepth: 2
 ---

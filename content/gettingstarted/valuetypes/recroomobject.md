@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Rec Room Object value type'
 order: 6
 tocDepth: 2
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Int value type'
 order: 3
 tocDepth: 2
 ---

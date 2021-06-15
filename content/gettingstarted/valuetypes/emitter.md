@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Emmiter value type'
 order: 11
 tocDepth: 2
 ---

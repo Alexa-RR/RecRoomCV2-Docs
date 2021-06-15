@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Button value type'
 order: 8
 tocDepth: 2
 ---

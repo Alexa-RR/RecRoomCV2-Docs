@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'SFX value type'
 order: 14
 tocDepth: 2
 ---

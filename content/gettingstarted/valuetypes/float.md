@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Float value type'
 order: 2
 tocDepth: 2
 ---

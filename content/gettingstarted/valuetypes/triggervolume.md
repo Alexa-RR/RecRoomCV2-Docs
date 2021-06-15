@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: 'Trigger Volume value type'
 order: 17
 tocDepth: 2
 ---
