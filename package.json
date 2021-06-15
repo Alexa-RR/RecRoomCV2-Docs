@@ -1,0 +1,24 @@
+{
+    "name": "Alexa&#x27;s CV2 Docs",
+    "version": "0.1.0",
+    "description": "This website is dedicated to explain everything you can do with Rec Room&#x27;s New Circuits v2 or CV2 system",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Alexa-RR/RecRoomCV2Documentation"
+    },
+    "keywords": [
+      "boogi",
+      "docs"
+    ],
+    "main": "n/a",
+    "scripts": {
+      "start": "node_modules/.bin/boogi develop",
+      "develop": "node_modules/.bin/boogi develop",
+      "build": "node_modules/.bin/boogi build",
+      "clean": "node_modules/.bin/boogi clean"
+    },
+    "dependencies": {
+        "boogi-cli": "0.4.0"
+    }
+  }
+  

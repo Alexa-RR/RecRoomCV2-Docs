@@ -1,0 +1,83 @@
+metadata:
+  name: Alexa's Circuits V2 Docs
+  short_name: Alexa's CV2 Docs
+  description: >-
+    This website is dedicated to explain everything you can do with Rec Room's
+    New Circuits v2 or CV2 system
+  language: en
+  url: 'https://cv2.alexapi.cf'
+  pathPrefix: /
+  gaTrackingId: '--'
+  favicon: /assets/favicon.png
+  themeColor: '#0066cc'
+header:
+  enabled: true
+  logo: /assets/logo.png
+  links: []
+sidebar:
+  ignoreIndex: true
+  forcedNavOrder: []
+  expanded: []
+  groups: []
+  links: []
+  poweredBy: {}
+  enabled: true
+pwa:
+  enabled: true
+  manifest:
+    icon: /assets/logo.png
+    display: browser
+    crossOrigin: anonymous
+features:
+  editOnRepo:
+    editable: true
+    location: 'https://github.com/Alexa-RR/RecRoomCV2Documentation'
+    type: github
+  search:
+    enabled: false
+    indexName: docs
+    showStats: true
+    pagination:
+      enabled: true
+  rss:
+    enabled: false
+    showIcon: true
+    copyright: ''
+    categories: []
+    matchRegex: ^/
+    outputPath: /rss.xml
+  darkMode:
+    enabled: true
+    default: true
+  scrollTop: true
+  showMetadata: true
+  propagateNetlifyEnv: false
+  previousNext:
+    enabled: true
+    arrowKeyNavigation: true
+  toc:
+    show: true
+    depth: .nan
+  mermaid:
+    theme: dark
+  pageProgress:
+    enabled: true
+    includePaths:
+      - '0'
+    excludePaths:
+      - '1'
+    height: 10
+    color: pink
+social:
+  github: 'https://github.com/Alexa-RR'
+search:
+  enabled: true
+  startComponent: input
+  placeholder: Search...
+  debounceTime: 380
+  snippetLength: 22
+  hitsPerPage: 10
+  showStats: true
+  pagination:
+    enabled: true
+    totalPages: 10

@@ -1,0 +1,10 @@
+---
+title: 'exec value type'
+order: 1
+---
+
+the ``` exec ``` value type is used to execute circuitry
+
+![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/gettingstarted/Images/ExecExample.gif?raw=true)
+
+the exec value type dosen't have a list type
