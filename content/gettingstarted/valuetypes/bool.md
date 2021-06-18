@@ -1,11 +1,11 @@
 ---
-title: 'Bool Value type'
+title: 'Bool value type'
 order: 1
-tocDepth: 1
+tocDepth: 2
 ---
 
 the ``` Bool ``` value type is mainly used for cotrol flow circuity
 
-![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/Images/ExecExample.gif?raw=true)
+![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/Images/Examples/BoolExample.gif?raw=true)
 
-the exec value type dosen't have a list type
+<info> the exec value type does have a list type </info>
