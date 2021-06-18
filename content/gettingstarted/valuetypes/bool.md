@@ -1,5 +1,5 @@
 ---
-title: 'Bool value type'
+title: ![](https://github.com/Alexa-RR/RecRoomCV2-Docs/blob/master/content/Images/ValueTypes/BoolValue.png) "Bool value type"
 order: 1
 tocDepth: 2
 ---
