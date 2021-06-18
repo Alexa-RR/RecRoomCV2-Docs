@@ -6,7 +6,6 @@ In cv2 we have 2 execution types:
 
 ## Local execution
 in local execution the circuity runs locally, for example if there are 2 players in a room and one player presses a button that turns on a local light, Only that player will see the light on.
-
 <Tip>As of today CV2 doesn't have local lights yet so in practice this is not possible yet but may come in the future!</Tip>
 
 ## Synced execution
