@@ -37,7 +37,7 @@ pwa:
 features:
   editOnRepo:
     editable: true
-    location: 'https://github.com/Alexa-RR/RecRoomCV2Documentation'
+    location: 'https://github.com/Alexa-RR/RecRoomCV2-Docs'
     type: github
   search:
     enabled: true
