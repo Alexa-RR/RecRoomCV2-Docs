@@ -4,20 +4,35 @@ This website is dedicated to explain everything you can do with Rec Room&#x27;s 
 
 This app was created with [BooGi](https://boogi.netlify.app).
 
-## Developing
+### Dependencies
 
-To start development server with live reload when something changes:
+- [Node.js](https://nodejs.org/en/download)
+- npm (included in Node.js)
 
-```bash
-boogi develop
-```
+### Getting Started
 
-## Building
+1. Clone or download this repository.
 
-To build application package ready for deployment:
+   ```sh
+   git clone https://github.com/Alexa-RR/RecRoomCV2-Docs.git
+   cd RecRoomCV2-Docs
+   ```
 
-```bash
-boogi build
-```
+2. Install build dependencies.
 
-Built package will be created in `public` directory.
+   ```sh
+   npm install -g gatsby-cli boogi-cli yarn && npm install
+   ```
+
+3. To start development server with live reload when something changes.
+
+   ```sh
+   boogi develop
+   ```
+
+4. build application package ready for deployment.
+
+   ```sh
+   boogi build
+   ```
+   Built package will be created in `public` directory.
